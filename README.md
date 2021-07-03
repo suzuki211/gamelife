@@ -26,6 +26,8 @@
 
 ## 設計書
 
+ER 図
+https://app.diagrams.net/#G1vo-ufAbATfMXoHyBtCiCWsOjRBzhUfLa
 （設計書ができていないため、作成後追記予定）
 
 ## チャレンジ要素一覧
@@ -39,4 +41,3 @@ https://docs.google.com/spreadsheets/d/1YRK7aYElz9KsQ9ip6CER7uwF4QjnkABmSBOCDyQ1
 - フレームワーク：Ruby on Rails
 - JS ライブラリ：jQuery
 - IDE：Cloud9
-
